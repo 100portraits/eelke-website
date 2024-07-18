@@ -14,7 +14,7 @@ const Home = () => {
             <div className="flex flex-col items-center text-center">
                 <img src={eelkeImage} alt="Eelke Heemskerk" className="rounded-full w-48 h-48" />
                 <h1 className="text-5xl font-bold mt-4">Eelke Heemskerk</h1>
-                <p className="mt-2 max-w-2xl">Associate Professor in Political Science, director of the ERC funded research group CORPNET, co-director of POPNET and management consultant at The Galan Group.</p>
+                <p className="mt-2 max-w-2xl">Full Professor in Political Science, director of the ERC funded research group CORPNET, co-director of POPNET and management consultant at The Galan Group.</p>
                 <div className="flex space-x-4 mt-4">
                     <Link to="/about" className="bg-blue-600 text-white px-4 py-2 rounded-md">About Eelke Heemskerk</Link>
                     <Link to="/publications" className="bg-blue-600 text-white px-4 py-2 rounded-md">Publications</Link>
